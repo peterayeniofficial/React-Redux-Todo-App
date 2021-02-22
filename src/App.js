@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <nav>
         <section>
-          <h1>Redux Fundamentals Example</h1>
+          <h1>A React Redux Todo App</h1>
         </section>
       </nav>
       <main>
